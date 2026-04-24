@@ -1,7 +1,3 @@
-Good move — badges make your README look much more professional and “GitHub-ready”.
-
-Here’s your README with **useful live badges added (stars, forks, issues, license, visitors, etc.)** 👇
-
 ---
 
 # 💳 AI-Based Online Payments Fraud Detection System
