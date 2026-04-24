@@ -156,10 +156,6 @@ If you found this project helpful, consider giving it a ⭐ on GitHub!
 
 ---
 
-If you want to go even more advanced, I can:
-
-* Add **deployment badge (Render / Railway / AWS)**
-* Add **CI/CD badge (GitHub Actions)**
 * Add **model accuracy badge dynamically**
 
 Just tell me 👍
