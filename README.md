@@ -13,15 +13,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-Frontend-orange?style=for-the-badge&logo=html5)
 ![Status](https://img.shields.io/badge/Project-Production%20Ready-success?style=for-the-badge)
 
-
-<!-- GitHub Badges -->
-
-![GitHub stars](https://img.shields.io/github/stars/spsourabh17/online-payments-fraud-detection?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/spsourabh17/online-payments-fraud-detection?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/spsourabh17/online-payments-fraud-detection?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/spsourabh17/online-payments-fraud-detection?style=for-the-badge)
-![GitHub repo size](https://img.shields.io/github/repo-size/spsourabh17/online-payments-fraud-detection?style=for-the-badge)
-
 <!-- Visitor Badge -->
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=spsourabh17.online-payments-fraud-detection)
