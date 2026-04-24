@@ -156,6 +156,3 @@ If you found this project helpful, consider giving it a ⭐ on GitHub!
 
 ---
 
-* Add **model accuracy badge dynamically**
-
-Just tell me 👍
